@@ -1,6 +1,6 @@
 # RespositoryTest
 Repositorio de trabajo en clase
 
-##Subtítulo
+## Subtítulo
 
 **Arbol**: estructura viviente que nace de la tierra
